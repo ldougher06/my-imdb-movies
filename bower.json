@@ -1,0 +1,13 @@
+{
+  "name": "my-imdb-movies",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ldougher06/my-imdb-movies",
+  "authors": [
+    "logan dougher <logan.dougher@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "~2.2.5",
+    "jquery": "~2.1.4"
+  }
+}
